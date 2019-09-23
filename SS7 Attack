@@ -1,0 +1,11 @@
+Finding a poorly configured server in a poor country with access to SS7.
+◾️Figuring out if there are entry points in the respective country and which company is managing each of the entry points.
+◾️find out the servers run by the respective company. U can use this site http://ipv4info.com
+◾️Now perform Nmap scan to discover hosts on the target server.
+◾️After scan completes check for useful open ports and try connecting them.
+◾️If you found anything unauthorized access try burp to find human readable format.
+◾️Main thing is whatever info u get just do a google search about that term.
+◾️If you see any teleco. name or city name or any unknown terms while connecting to the port then you are at right place. Just google the terms and if you found words related with SS7, for an example search “ITP” you will find it’s relation with SS7.
+
+*🔻This way you can find SS7 Access point. It’s not full SS7 Tutorial so don’t behave like a Legend.*
+Blog by TheCyberKiddie
